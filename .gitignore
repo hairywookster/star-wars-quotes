@@ -10,6 +10,9 @@
 /test/version_tmp/
 /tmp/
 
+# Ignore the rdoc generated api docs
+/html/
+
 # Used by dotenv library to load environment variables.
 # .env
 
