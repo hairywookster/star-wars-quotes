@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "star_wars_quotes"
-  s.version     = "1.0.0"
+  s.version     = "1.0.1"
   s.summary     = "Star Wars Quotes"
   s.description = "A simple gem to allow retrieval of various types of star wars quotes for use in other projects"
   s.authors     = ["hairywookster@gmail.com"]
