@@ -84,7 +84,7 @@ etc...
 rake  (runs tests)
 rdoc  (builds docs)
 gem build star_wars_quotes.gemspec          (update version before build)
-gem install ./star_wars_quotes-1.0.2.gem    (update version)
+gem install ./star_wars_quotes-1.0.1.gem    (update version)
 irb
 > require "star_wars_quotes"
 > swq = StarWarsQuotes::Api.new( true )
@@ -95,6 +95,6 @@ gem uninstall star_wars_quotes
 ## Pushing gem
 ```
 gem signin
-gem push star_wars_quotes-1.0.2.gem         (update version)
+gem push star_wars_quotes-1.0.1.gem         (update version)
 gem list -r star_wars_quotes
 ```
