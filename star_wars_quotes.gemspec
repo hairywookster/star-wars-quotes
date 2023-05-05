@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.files       = ["lib/star_wars_quotes.rb",
                    "lib/star_wars_quotes/api.rb",
                    "lib/star_wars_quotes/quote.rb"]
-  s.homepage    = "https://rubygems.org/gems/star_wars_quotes"
+  s.homepage    = "https://github.com/hairywookster/star-wars-quotes"
   s.license     = "MIT"
 end
